@@ -1,3 +1,5 @@
 # Rotating Backup Solution for Mac OS X
 
 Super simple backup solution with rotation of backup images mainly but not exclusively for Mac OS X
+
+DISCLEAMER: THIS IS NEITHER HEAVILY TESTED NOR VERY SOPHISTICATED! DO WHATEVER YOU WANT WITH IT BUT USE AT YOUR OWN RISK! DON'T USE IT UNLESS YOU DON'T UNDERSTAND IT! MAKE SURE TO PUT A PROPER BACKUP SOLUTION IN PLACE AS WELL!
